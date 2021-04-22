@@ -38,7 +38,7 @@ body {
   list-style-type: none;
 }
 
-.header nav ul li {
+.header ul li {
   display: inline-block;
   margin-left: 25px;
 }
@@ -200,4 +200,7 @@ p {
 /* .footer class h2 element attributes */
 .footer h2 {
   font-size: 20px;
+}
+.flex-container {
+  display: flex;
 }
